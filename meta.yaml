@@ -1,0 +1,9 @@
+package:
+   name: fermi-Minuit2
+   version: "0.0.0"
+
+source:
+  url: http://project-mathlibs.web.cern.ch/project-mathlibs/sw/Minuit2/Minuit2.tar.gz
+
+build:
+  number: 0
