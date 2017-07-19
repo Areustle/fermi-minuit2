@@ -1,5 +1,5 @@
 package:
-   name: fermi-Minuit2
+   name: fermi-minuit2
    version: "0.0.0"
 
 source:
